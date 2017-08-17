@@ -16,7 +16,7 @@
     * **ISP(Internet Service Provider)**：因特网服务提供者(中国电信、联通、移动)；ISP从因特网管理机构申请很多IP地址，个人向ISP购买IP地址
 因特网交换点**IXP(Internet eXchange Point)**：允许两个网络直接相连(不经过更高级的ISP)
 
-所有的因特网标准都是以**RFC**形式在因特网上发表&nbsp**RFC(Request For Comment)**：请求评论<br>
+所有的因特网标准都是以**RFC**形式在因特网上发表&nbsp;**RFC(Request For Comment)**：请求评论<br>
 制定因特网的正式标准要经过四个阶段:
 * **因特网草案** (还不是RFC)
 * **建议标准** (从这里开始成为RFC)
